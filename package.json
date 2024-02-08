@@ -5,7 +5,7 @@
   "homepage": "https://github.com/AdamStrzyzewski/test-qaa5",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /test-qaa5/"
   },
   "repository": {
     "type": "git",
