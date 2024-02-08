@@ -23,7 +23,6 @@ function createBoxes(amount) {
   // destroyBoxes();
   // boxContainer.append(...boxes);
   // new construct
-
   boxContainer.replaceChildren(...boxes);
 }
 
